@@ -1,4 +1,4 @@
-# Iamralch Tap
+# homebrew-tap
 
 ## How do I install these formulae?
 
